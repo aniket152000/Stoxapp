@@ -1,6 +1,6 @@
 # stoxdata
 
-A new Flutter project.
+A new Flutter project to Fetch Stock market data.
 
 ## Getting Started
 
