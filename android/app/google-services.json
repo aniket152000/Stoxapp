@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328096152500",
+    "project_id": "stoxdata-ac209",
+    "storage_bucket": "stoxdata-ac209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328096152500:android:9bbeb470433485ecff50e1",
+        "android_client_info": {
+          "package_name": "com.example.stoxdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328096152500-8gmrpi3o4iffdh7ltgotgbchlmic6jtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7sJerRQoUjiqHuke99DIrUCCiUy0utTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328096152500-8gmrpi3o4iffdh7ltgotgbchlmic6jtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
