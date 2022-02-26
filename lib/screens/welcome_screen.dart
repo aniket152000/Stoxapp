@@ -22,21 +22,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: <Widget>[
-              Row(
-                children: <Widget>[
 
-                  // Flexible(
-                  //   child: TypewriterAnimatedTextKit(
-                  //     text:['Aniket Chat'],
-                  //     textStyle: TextStyle(
-                  //       color: Colors.blueGrey,
-                  //       fontSize: 50.0,
-                  //       fontWeight: FontWeight.w900,
-                  //     ),
-                  //   ),
-                  // ),
-                ],
-              ),
               SizedBox(
                 height: 48.0,
               ),
